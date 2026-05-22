@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emmychepkwony.netlify.app/sitemap.xml

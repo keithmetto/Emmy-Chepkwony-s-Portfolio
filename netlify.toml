@@ -1,0 +1,3 @@
+# Static portfolio — no build step. All files (index.html, assets/, PDF) live at the repo root.
+[build]
+  publish = "."
